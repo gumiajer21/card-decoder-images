@@ -1,0 +1,712 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "1",
+  "format": "zip-store",
+  "imageFormat": "webp",
+  "shardRule": "first-two-digits-of-zero-padded-8-digit-card-id",
+  "createdAt": "2026-09-28T14:02:58.0856202Z",
+  "totalFiles": 9119,
+  "totalBytes": 1248656402,
+  "packs": [
+    {
+      "prefix": "00",
+      "asset": "card-images-zh-00.zip",
+      "fileCount": 88,
+      "bytes": 12090956,
+      "sha256": "656095c138b072134813d555e18cff233c320e3bb1482914cd293a7aeb94e38a"
+    },
+    {
+      "prefix": "01",
+      "asset": "card-images-zh-01.zip",
+      "fileCount": 86,
+      "bytes": 12105622,
+      "sha256": "acceb20e9ccdb3d5ca338b4edfb9609323b382b7ed748a70ae61570b554ec8c2"
+    },
+    {
+      "prefix": "02",
+      "asset": "card-images-zh-02.zip",
+      "fileCount": 103,
+      "bytes": 14236582,
+      "sha256": "2ebb78d570d5393234baf44e2de585edf0261bc456cf5b3054630a03cd456187"
+    },
+    {
+      "prefix": "03",
+      "asset": "card-images-zh-03.zip",
+      "fileCount": 110,
+      "bytes": 15244800,
+      "sha256": "77114e0df36e7df31589b1985ce5822d9b3e9661aea068f4499f16e3094212a3"
+    },
+    {
+      "prefix": "04",
+      "asset": "card-images-zh-04.zip",
+      "fileCount": 89,
+      "bytes": 12246748,
+      "sha256": "f0cc9daeddc59c3f2a2d87d59922a3d079e568b27384d479d59577b9fa0ae31a"
+    },
+    {
+      "prefix": "05",
+      "asset": "card-images-zh-05.zip",
+      "fileCount": 86,
+      "bytes": 11749386,
+      "sha256": "092d8f65a327642db10f2d6b526b2ac3fb9808df7ca13b968dd89b583836ccb9"
+    },
+    {
+      "prefix": "06",
+      "asset": "card-images-zh-06.zip",
+      "fileCount": 92,
+      "bytes": 12843578,
+      "sha256": "6c8d758b36239a10fd6875f50692b73bbdbf529e30960bde81ac1e1bf95ccf82"
+    },
+    {
+      "prefix": "07",
+      "asset": "card-images-zh-07.zip",
+      "fileCount": 95,
+      "bytes": 12632226,
+      "sha256": "2572fcb797509baf5e91b8fb26bbcd0acb8e391a1734b2537a09892335852cfe"
+    },
+    {
+      "prefix": "08",
+      "asset": "card-images-zh-08.zip",
+      "fileCount": 97,
+      "bytes": 13085762,
+      "sha256": "04d9babb93da2c6c003862b0ec7549f74e5d98f6b194618109aba34726c18dea"
+    },
+    {
+      "prefix": "09",
+      "asset": "card-images-zh-09.zip",
+      "fileCount": 97,
+      "bytes": 13564534,
+      "sha256": "6eff5045c99e55afe7e02f9bc7cdfc21992961f6ca32e9dc8666f2caf0c617ff"
+    },
+    {
+      "prefix": "10",
+      "asset": "card-images-zh-10.zip",
+      "fileCount": 102,
+      "bytes": 14050532,
+      "sha256": "66f059b629b1a9cbc1212dbf8745c50f736c0a90d4494a0c5f3ecb9c2c5fac91"
+    },
+    {
+      "prefix": "11",
+      "asset": "card-images-zh-11.zip",
+      "fileCount": 95,
+      "bytes": 13061560,
+      "sha256": "31f3a37591c34c922c0a6aada8e73658f79c7139c254b88e1f53e4f061a5e1e1"
+    },
+    {
+      "prefix": "12",
+      "asset": "card-images-zh-12.zip",
+      "fileCount": 96,
+      "bytes": 13421336,
+      "sha256": "117082914eba002033784a2e6d75aceaa378501a27c6eabbad5027c5c475700f"
+    },
+    {
+      "prefix": "13",
+      "asset": "card-images-zh-13.zip",
+      "fileCount": 98,
+      "bytes": 13212578,
+      "sha256": "cd35d6ed1afe3f7d3199a09d14508b77e16420340f127a855f3533121ca7bb2d"
+    },
+    {
+      "prefix": "14",
+      "asset": "card-images-zh-14.zip",
+      "fileCount": 89,
+      "bytes": 11620812,
+      "sha256": "8f3375314c32d716d7aeafb31ce11a4bddc145aaf29cd2263154d065e87ef4d8"
+    },
+    {
+      "prefix": "15",
+      "asset": "card-images-zh-15.zip",
+      "fileCount": 102,
+      "bytes": 13681184,
+      "sha256": "f4b6bf25b6133040154d479fac231dd2ea73ee690a6f769d64bec3f0e2670d69"
+    },
+    {
+      "prefix": "16",
+      "asset": "card-images-zh-16.zip",
+      "fileCount": 101,
+      "bytes": 13598942,
+      "sha256": "aaeeaeab5752c793e388f062bc7d2cce746f4f622172928b97937faa53285952"
+    },
+    {
+      "prefix": "17",
+      "asset": "card-images-zh-17.zip",
+      "fileCount": 95,
+      "bytes": 12355800,
+      "sha256": "3c60d93a1d879c9abaca2f411e9890e023125dd36f6afcc4db81d992d4e52536"
+    },
+    {
+      "prefix": "18",
+      "asset": "card-images-zh-18.zip",
+      "fileCount": 88,
+      "bytes": 12320818,
+      "sha256": "e9259f3557f96c6773f9b787c56566fd9f7eb9a2cf224dba10fa8d79dbc1eb0c"
+    },
+    {
+      "prefix": "19",
+      "asset": "card-images-zh-19.zip",
+      "fileCount": 92,
+      "bytes": 12446366,
+      "sha256": "5aaac20e61d335c63d605b8d0798804b610c4db41f9ecd82925b383eb351807d"
+    },
+    {
+      "prefix": "20",
+      "asset": "card-images-zh-20.zip",
+      "fileCount": 87,
+      "bytes": 11592830,
+      "sha256": "fee1491712f6c0ef4dc8d6c6fd3a69572a53f30ecf471bd37b204a3921d8436b"
+    },
+    {
+      "prefix": "21",
+      "asset": "card-images-zh-21.zip",
+      "fileCount": 95,
+      "bytes": 13388142,
+      "sha256": "849c1fb434bc1757ca50f26e59de0109aac972eae3e594519ac5f05d7f5a6a76"
+    },
+    {
+      "prefix": "22",
+      "asset": "card-images-zh-22.zip",
+      "fileCount": 86,
+      "bytes": 11897312,
+      "sha256": "4780200751add21b178246aa3a83b7104873ec6f21e38c4136eeb339d8516ac4"
+    },
+    {
+      "prefix": "23",
+      "asset": "card-images-zh-23.zip",
+      "fileCount": 101,
+      "bytes": 14105550,
+      "sha256": "cfb1c9888124f924f7a021d755c35e7cdbd6a13bc4455635e5cc52184f59d8b2"
+    },
+    {
+      "prefix": "24",
+      "asset": "card-images-zh-24.zip",
+      "fileCount": 91,
+      "bytes": 12417676,
+      "sha256": "66b32d43a65508ae5e2b4cfd3e2d446df2d465e5e4daa7dc5009ca05da63acd7"
+    },
+    {
+      "prefix": "25",
+      "asset": "card-images-zh-25.zip",
+      "fileCount": 89,
+      "bytes": 12598278,
+      "sha256": "e0f79747dd0b29c20722de59cfe832443e40caa5681f8799d8d45bf7b0a3b685"
+    },
+    {
+      "prefix": "26",
+      "asset": "card-images-zh-26.zip",
+      "fileCount": 78,
+      "bytes": 10561910,
+      "sha256": "c8798880d2119d4f5545b814c4fae8ade93b952e567718f964cd6611018b7b57"
+    },
+    {
+      "prefix": "27",
+      "asset": "card-images-zh-27.zip",
+      "fileCount": 87,
+      "bytes": 11683166,
+      "sha256": "54d54e735f5bd6addc6ede90d21d1a72b47595ae044733e0f9f67d14ec29130e"
+    },
+    {
+      "prefix": "28",
+      "asset": "card-images-zh-28.zip",
+      "fileCount": 94,
+      "bytes": 13083794,
+      "sha256": "a127d6d217b8101f80d043d6a6ad18422ee47aa2cbc863c27fea0a46f4708893"
+    },
+    {
+      "prefix": "29",
+      "asset": "card-images-zh-29.zip",
+      "fileCount": 94,
+      "bytes": 13083190,
+      "sha256": "80f5defceec3eb34e1cf601789ba55832c45f84f7b8dc91b4d93bb7eaa65971c"
+    },
+    {
+      "prefix": "30",
+      "asset": "card-images-zh-30.zip",
+      "fileCount": 102,
+      "bytes": 14562054,
+      "sha256": "0a3b273892755b698043b1e8022183e5de27395fb6c129de62794e12e6c009e7"
+    },
+    {
+      "prefix": "31",
+      "asset": "card-images-zh-31.zip",
+      "fileCount": 100,
+      "bytes": 13496860,
+      "sha256": "314565e413a9513f20404f4778609b9a9f9146e9a55a26299361885f063b172c"
+    },
+    {
+      "prefix": "32",
+      "asset": "card-images-zh-32.zip",
+      "fileCount": 97,
+      "bytes": 13076308,
+      "sha256": "e0f9a28e5cce5c7a0514913889b34142976279af2dadeef639562bcbb64582ec"
+    },
+    {
+      "prefix": "33",
+      "asset": "card-images-zh-33.zip",
+      "fileCount": 92,
+      "bytes": 12570984,
+      "sha256": "d9b8589fb4bc3ee3f58f3cd07ce6cf9399359ecadd2401932ca87a0c2ebd8a56"
+    },
+    {
+      "prefix": "34",
+      "asset": "card-images-zh-34.zip",
+      "fileCount": 94,
+      "bytes": 12838992,
+      "sha256": "af4f58f628b180a9a67eb478d43d38d0dde62ea6319a41f6f45f3ea8d13b71b7"
+    },
+    {
+      "prefix": "35",
+      "asset": "card-images-zh-35.zip",
+      "fileCount": 73,
+      "bytes": 10113260,
+      "sha256": "7266bc663fc78d5668fba3d453f7b20c08cdf20fcdefaabdc2a1f4331df5e6b8"
+    },
+    {
+      "prefix": "36",
+      "asset": "card-images-zh-36.zip",
+      "fileCount": 88,
+      "bytes": 11758724,
+      "sha256": "bb36e1078f6a66f6fc656275d9161e51d19af35ec79ca378baaf12f57639e97b"
+    },
+    {
+      "prefix": "37",
+      "asset": "card-images-zh-37.zip",
+      "fileCount": 93,
+      "bytes": 13160548,
+      "sha256": "e1d01896d15a92e9875d975f34092e0eef077dee07bd5ed02c789b27464ba849"
+    },
+    {
+      "prefix": "38",
+      "asset": "card-images-zh-38.zip",
+      "fileCount": 89,
+      "bytes": 12086608,
+      "sha256": "97349aafc2fcf3057d6f93b546ad8357e05ba408b006ebd4ee5d03cd7cc0b7ff"
+    },
+    {
+      "prefix": "39",
+      "asset": "card-images-zh-39.zip",
+      "fileCount": 93,
+      "bytes": 13082510,
+      "sha256": "8495f0a056050c7913cfef8eeb38fd9441aa20b54a0757d8cf5bb7a0af573595"
+    },
+    {
+      "prefix": "40",
+      "asset": "card-images-zh-40.zip",
+      "fileCount": 102,
+      "bytes": 13767428,
+      "sha256": "f1c95c30eb6a4cd2dba2da85d89e9775bc576d69786741ffc6e0ea5972e2531c"
+    },
+    {
+      "prefix": "41",
+      "asset": "card-images-zh-41.zip",
+      "fileCount": 93,
+      "bytes": 12613788,
+      "sha256": "a43c2aebe642b34ecd8ba0c4db67c9a0d58d67ca5775e6b1e8c127bbb49e57be"
+    },
+    {
+      "prefix": "42",
+      "asset": "card-images-zh-42.zip",
+      "fileCount": 98,
+      "bytes": 13198334,
+      "sha256": "80946e2dbd1e9282fcdb98b79dfc451fb1109044f62aa0a3b78b39428944dff9"
+    },
+    {
+      "prefix": "43",
+      "asset": "card-images-zh-43.zip",
+      "fileCount": 83,
+      "bytes": 11089194,
+      "sha256": "b27e645e780fb14b1827a2bc9987372d70adb6fa15f2e6f54c942b802a20975b"
+    },
+    {
+      "prefix": "44",
+      "asset": "card-images-zh-44.zip",
+      "fileCount": 90,
+      "bytes": 12334960,
+      "sha256": "9645f1f11fbe7cd59614f40a05e3f23265d93d48bf1a8dff543a6983bc9091b3"
+    },
+    {
+      "prefix": "45",
+      "asset": "card-images-zh-45.zip",
+      "fileCount": 107,
+      "bytes": 14630832,
+      "sha256": "74494c9318d7665426c18e9b7b79f7bc7e3c4613f2514130398b672680e2d936"
+    },
+    {
+      "prefix": "46",
+      "asset": "card-images-zh-46.zip",
+      "fileCount": 100,
+      "bytes": 13505252,
+      "sha256": "7a9dfaa47b42f0e898b41f7e0a55da2660476f0392831583f85e801e7a4843cc"
+    },
+    {
+      "prefix": "47",
+      "asset": "card-images-zh-47.zip",
+      "fileCount": 94,
+      "bytes": 12823136,
+      "sha256": "06bebc5228f1a84f9d64e35e52a4ea4268f0a855cfc36bfbfd77ddae87a8994e"
+    },
+    {
+      "prefix": "48",
+      "asset": "card-images-zh-48.zip",
+      "fileCount": 90,
+      "bytes": 12547204,
+      "sha256": "c919638526160bab54f95dcbbec52dd66894988d4b3c32ebc7148794ecf132ea"
+    },
+    {
+      "prefix": "49",
+      "asset": "card-images-zh-49.zip",
+      "fileCount": 90,
+      "bytes": 12301094,
+      "sha256": "134ab6fbe7843dc053e62fab4abcec6901289726eff4ac0aaf2f38db4fed3c57"
+    },
+    {
+      "prefix": "50",
+      "asset": "card-images-zh-50.zip",
+      "fileCount": 97,
+      "bytes": 13191058,
+      "sha256": "84a0c08986f4b6c6c6ba6a50c5460ef50ec83e9ff3a223d55759e7fc47cc9e1f"
+    },
+    {
+      "prefix": "51",
+      "asset": "card-images-zh-51.zip",
+      "fileCount": 88,
+      "bytes": 11741802,
+      "sha256": "e1a5a533c17ad54eaccaaa43661a7b06775700f3b798fb81d24e5264ca0077e0"
+    },
+    {
+      "prefix": "52",
+      "asset": "card-images-zh-52.zip",
+      "fileCount": 93,
+      "bytes": 12487516,
+      "sha256": "0e1e31fc4dfb16ffe1f11c93da73a39f8df6f82e8ac668bd3c06d869907abbf6"
+    },
+    {
+      "prefix": "53",
+      "asset": "card-images-zh-53.zip",
+      "fileCount": 101,
+      "bytes": 13552058,
+      "sha256": "b1fd5bc6cb255faa3ec20fc76f8917fe53bee61a4ebefb0650afca902618e094"
+    },
+    {
+      "prefix": "54",
+      "asset": "card-images-zh-54.zip",
+      "fileCount": 96,
+      "bytes": 13170360,
+      "sha256": "3409d3ef1be20edf70a870ee4ef8d5b53b3669d26b23a7c72d34d035926da64f"
+    },
+    {
+      "prefix": "55",
+      "asset": "card-images-zh-55.zip",
+      "fileCount": 92,
+      "bytes": 12423886,
+      "sha256": "33585ab175b904543bb2931f5662c82254b8e015cedebd990999140769e4ad4a"
+    },
+    {
+      "prefix": "56",
+      "asset": "card-images-zh-56.zip",
+      "fileCount": 97,
+      "bytes": 13062242,
+      "sha256": "aa982811fa6a3cd665dee1cfd6be54ac0cf3a68972b2fded6310cd3b77030803"
+    },
+    {
+      "prefix": "57",
+      "asset": "card-images-zh-57.zip",
+      "fileCount": 78,
+      "bytes": 10505564,
+      "sha256": "56d2b40a0cfcd1e66a7493e19eb803481658cf1cc0104ff3df87446446c4ae32"
+    },
+    {
+      "prefix": "58",
+      "asset": "card-images-zh-58.zip",
+      "fileCount": 100,
+      "bytes": 13613164,
+      "sha256": "e4d3bbbac7b309ebcb4b067a361a506a9107203c67310a085a7cb6c1bfa5c52f"
+    },
+    {
+      "prefix": "59",
+      "asset": "card-images-zh-59.zip",
+      "fileCount": 89,
+      "bytes": 12499142,
+      "sha256": "7e61e046562e26eca002decc99d1dae5b0a58ae7d33a3d810c411772cc8cd211"
+    },
+    {
+      "prefix": "60",
+      "asset": "card-images-zh-60.zip",
+      "fileCount": 75,
+      "bytes": 10398460,
+      "sha256": "53c365474d333657b03378e8db0973e58df6b0a2d05ef0d0dd910d9762789a43"
+    },
+    {
+      "prefix": "61",
+      "asset": "card-images-zh-61.zip",
+      "fileCount": 76,
+      "bytes": 10631132,
+      "sha256": "062329f88d434fac3afe459f5cfd5ed65e8891d2a7daca3d69a21729d606723f"
+    },
+    {
+      "prefix": "62",
+      "asset": "card-images-zh-62.zip",
+      "fileCount": 89,
+      "bytes": 12079092,
+      "sha256": "13b1405476be5535ebe784ca66d561e1494bce60c1a31750258943142dfa986a"
+    },
+    {
+      "prefix": "63",
+      "asset": "card-images-zh-63.zip",
+      "fileCount": 74,
+      "bytes": 10296950,
+      "sha256": "e3d6460d543293eeb67d8bf56422ab50c3753995101824ddd746bc072ae9c436"
+    },
+    {
+      "prefix": "64",
+      "asset": "card-images-zh-64.zip",
+      "fileCount": 86,
+      "bytes": 11663374,
+      "sha256": "bdb1554f8f284090871d834afa643973f8727be460f683a3c11a4db723028275"
+    },
+    {
+      "prefix": "65",
+      "asset": "card-images-zh-65.zip",
+      "fileCount": 90,
+      "bytes": 12916730,
+      "sha256": "9ed61c8f984d996fc7ce3bcf2ebfc354920e2f02d3e53dceaed344c55d78c5cd"
+    },
+    {
+      "prefix": "66",
+      "asset": "card-images-zh-66.zip",
+      "fileCount": 100,
+      "bytes": 13941042,
+      "sha256": "3a5341d164d550b0b4367a7d524dcde925cf38b5f446f26673d5e9927ff9f33c"
+    },
+    {
+      "prefix": "67",
+      "asset": "card-images-zh-67.zip",
+      "fileCount": 95,
+      "bytes": 12809640,
+      "sha256": "7e12079ed5e22e43ffdbd1205b8ac126a665f9cf15adce844edefc36df24412d"
+    },
+    {
+      "prefix": "68",
+      "asset": "card-images-zh-68.zip",
+      "fileCount": 83,
+      "bytes": 11065468,
+      "sha256": "2bf0cd92363b56c01f2aca9d7400ae42c3f707ccecf00885902db128a7604f1f"
+    },
+    {
+      "prefix": "69",
+      "asset": "card-images-zh-69.zip",
+      "fileCount": 89,
+      "bytes": 12267748,
+      "sha256": "6d84be8f2fcc58d2475a933e145d71d95683bbaf74ac7799ed9f7aa679ffe97b"
+    },
+    {
+      "prefix": "70",
+      "asset": "card-images-zh-70.zip",
+      "fileCount": 93,
+      "bytes": 12677536,
+      "sha256": "b707dc06fddc045caabcd025590c2e6714a581732579e6cbba9527645c16e172"
+    },
+    {
+      "prefix": "71",
+      "asset": "card-images-zh-71.zip",
+      "fileCount": 104,
+      "bytes": 14200572,
+      "sha256": "7eff8cf4effd8ee1ea74c9f4a39b553e9f45cf92ef8f12bc7b1a12c849495fca"
+    },
+    {
+      "prefix": "72",
+      "asset": "card-images-zh-72.zip",
+      "fileCount": 92,
+      "bytes": 12684892,
+      "sha256": "d34c61b2da87db054f0ddb47bd2e68c9315b4a9bb461385bad9ef94eb88f128e"
+    },
+    {
+      "prefix": "73",
+      "asset": "card-images-zh-73.zip",
+      "fileCount": 93,
+      "bytes": 12855714,
+      "sha256": "9c2e17552da854cb85234ead8b8fda0eca971940dafb84b62e1ac194e6c38670"
+    },
+    {
+      "prefix": "74",
+      "asset": "card-images-zh-74.zip",
+      "fileCount": 86,
+      "bytes": 12384990,
+      "sha256": "4939a7c439eaab09c3020ced92df4a24448ee826d05b7be230aa3e5d80e30440"
+    },
+    {
+      "prefix": "75",
+      "asset": "card-images-zh-75.zip",
+      "fileCount": 95,
+      "bytes": 13218960,
+      "sha256": "3bad9580cd5cf0f6fe9091605d3ec2d14588fbd8c766f726af68c799bc58b7be"
+    },
+    {
+      "prefix": "76",
+      "asset": "card-images-zh-76.zip",
+      "fileCount": 89,
+      "bytes": 11977794,
+      "sha256": "a4e0d0bf7dd2f29f2117e9d826ef4db63a04707e12cceffbbd990aaf1958291f"
+    },
+    {
+      "prefix": "77",
+      "asset": "card-images-zh-77.zip",
+      "fileCount": 86,
+      "bytes": 11619212,
+      "sha256": "32e9755691f26a94e27d7ccd7613fe5f46cc83bb7df74b038dd0310f5f2d59ee"
+    },
+    {
+      "prefix": "78",
+      "asset": "card-images-zh-78.zip",
+      "fileCount": 81,
+      "bytes": 10893904,
+      "sha256": "6472266381b168d0a57ac30b5dd78d4e4e919b812b00b230b7b2b4a1581229e2"
+    },
+    {
+      "prefix": "79",
+      "asset": "card-images-zh-79.zip",
+      "fileCount": 79,
+      "bytes": 10902848,
+      "sha256": "355a96b9680a86d74d58c3023e0429bdde8c5baa2ab54b8ddc287fd60a511a81"
+    },
+    {
+      "prefix": "80",
+      "asset": "card-images-zh-80.zip",
+      "fileCount": 92,
+      "bytes": 12472386,
+      "sha256": "ebcec4fef4774aaa5da4a708bc1b84b87c796818e9911157a677d69bd75a4a82"
+    },
+    {
+      "prefix": "81",
+      "asset": "card-images-zh-81.zip",
+      "fileCount": 102,
+      "bytes": 13822048,
+      "sha256": "95550f039ce139c887a444688359e3f9d386b5f781f71b26b595633d7524c8ba"
+    },
+    {
+      "prefix": "82",
+      "asset": "card-images-zh-82.zip",
+      "fileCount": 92,
+      "bytes": 12624608,
+      "sha256": "ec320afd09bbb14090dd5ff5d59b19316442bc116e4c26f93049189b66dc0b0d"
+    },
+    {
+      "prefix": "83",
+      "asset": "card-images-zh-83.zip",
+      "fileCount": 78,
+      "bytes": 10321364,
+      "sha256": "cce6622664c678b7b9dc07586b41b1f8cce854002b8c3d24b4dd61e525c14f54"
+    },
+    {
+      "prefix": "84",
+      "asset": "card-images-zh-84.zip",
+      "fileCount": 102,
+      "bytes": 13906594,
+      "sha256": "b02614bee17e8a64af4ed617f50a6c447dfda29bdeb5dc6cdd38585525e7a6ba"
+    },
+    {
+      "prefix": "85",
+      "asset": "card-images-zh-85.zip",
+      "fileCount": 88,
+      "bytes": 12326398,
+      "sha256": "78f72c11761eeea2577ebf3f97b0d8b1802c5be90de262cb46d5e600bf48e947"
+    },
+    {
+      "prefix": "86",
+      "asset": "card-images-zh-86.zip",
+      "fileCount": 89,
+      "bytes": 12117180,
+      "sha256": "5a80ba95d06e5395a6539c92447fa0b57cd423ad3783c30126e62dd6f3b2dfc6"
+    },
+    {
+      "prefix": "87",
+      "asset": "card-images-zh-87.zip",
+      "fileCount": 83,
+      "bytes": 11158124,
+      "sha256": "b70e0f29b283ce7f3ae0db07c2d6accf2a2bd8650707340105605b18fab29ec7"
+    },
+    {
+      "prefix": "88",
+      "asset": "card-images-zh-88.zip",
+      "fileCount": 90,
+      "bytes": 12623724,
+      "sha256": "8476261b1de10b58ef7f91465f0203a693c36305143d19bc6f698e014efd1c41"
+    },
+    {
+      "prefix": "89",
+      "asset": "card-images-zh-89.zip",
+      "fileCount": 87,
+      "bytes": 11333604,
+      "sha256": "856501134b09d0cda6285455abcbc8f7b5e66db946299697a5361496b45099fe"
+    },
+    {
+      "prefix": "90",
+      "asset": "card-images-zh-90.zip",
+      "fileCount": 86,
+      "bytes": 11900936,
+      "sha256": "992c7e1c6f0005c30a4692ed9de5d6175a17cf26a1263a3a4752acecd4e24d9e"
+    },
+    {
+      "prefix": "91",
+      "asset": "card-images-zh-91.zip",
+      "fileCount": 86,
+      "bytes": 11969578,
+      "sha256": "82e96238f570aaefc3216c693931ee54bbd71da8a7eb26e4d89da991285a5143"
+    },
+    {
+      "prefix": "92",
+      "asset": "card-images-zh-92.zip",
+      "fileCount": 92,
+      "bytes": 13047794,
+      "sha256": "64a2a6673ece57e64c885da1a10e5accbcd7ece8ef547bdba3ca7761dfb887c5"
+    },
+    {
+      "prefix": "93",
+      "asset": "card-images-zh-93.zip",
+      "fileCount": 93,
+      "bytes": 12653808,
+      "sha256": "c7aa3c443d0f0eff10985d1d00d7236a479a24d5de25cdf590b8f58b382301fd"
+    },
+    {
+      "prefix": "94",
+      "asset": "card-images-zh-94.zip",
+      "fileCount": 85,
+      "bytes": 11480434,
+      "sha256": "73b651fe85018610209419acf8e285d42ea2e6b3d420d646962fbf6eedec241a"
+    },
+    {
+      "prefix": "95",
+      "asset": "card-images-zh-95.zip",
+      "fileCount": 93,
+      "bytes": 13221632,
+      "sha256": "6b080d841ac0f824230269a2b7383c51de63878d20cbe33e22a92ec7ec2d7e15"
+    },
+    {
+      "prefix": "96",
+      "asset": "card-images-zh-96.zip",
+      "fileCount": 79,
+      "bytes": 10962392,
+      "sha256": "9c691e9880e2cc4f266345a1ea246f0bbd52ce15fd7389a06ac73be71595286a"
+    },
+    {
+      "prefix": "97",
+      "asset": "card-images-zh-97.zip",
+      "fileCount": 89,
+      "bytes": 12308354,
+      "sha256": "c5d8197854caf55a5af04001ef65d0bbd21f32afe15ce56973215c190f179a1f"
+    },
+    {
+      "prefix": "98",
+      "asset": "card-images-zh-98.zip",
+      "fileCount": 77,
+      "bytes": 10477798,
+      "sha256": "1697e17d8e556e45bcf162706123f84ff05c9c390c7ed4415684363ebc149f38"
+    },
+    {
+      "prefix": "99",
+      "asset": "card-images-zh-99.zip",
+      "fileCount": 79,
+      "bytes": 10654756,
+      "sha256": "03b5d28faafdcecd07e2d8423fdaea997fa540bc9b53f97e358dd693fd060f08"
+    }
+  ]
+}
